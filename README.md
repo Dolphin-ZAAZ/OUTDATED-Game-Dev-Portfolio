@@ -10,8 +10,8 @@ Hi, I'm Dolphin (Christiaan). I'm from South Africa and I'm a 21 year old male.
 I have been a solo hobbiest game developer since I entered high school in 2016.
 I have almost solely developed using Unity C# however I am confident in my ability to swap
 between software and programming languages. I have limited experience with Python outside of game dev
-and I started my programming journey with the 2D visual scripting software "Scratch" back in 2015.
-Although I have never worked with other, I am familiar enough with Git and ready to learn and mingle.
+and I started my programming journey with the 2D visual scripting software "Scratch" back in 2013.
+I have shortly worked with others on an open source project called "Thrive" by Revolutionary games.
 
 Outside of programming I have dabbled in music production, video editing, and photo editing.
 In FL Studio, Sony Vegas Pro, and Photoshop respectively. I am a bit of a designer at heart.
@@ -24,10 +24,9 @@ sales, and being a team player of course.
 
 I am currently a co-founder of a soon to be ecommerce platform here in South Africa
 as part of a 3 man team. However, many more people are involved outside of the "Team".
-I have a wide network that I can tap into because I happen to be a nice guy, and I didn't know
-that meant people would want to assist me when I am down. I have a lot of time on my hands currently
+I have a wide network that I can tap into. I have a lot of time on my hands currently
 as we are developing our system and my team has agreed to let me find a game development 
-job (if i can find one). Otherwise any other job (which is really tough to come by in South Africa).
+job (if i can find one). Otherwise any other job.
 
 In high school my subjects of choice were: Physical Sciences (Chemistry and Physics), Mathematics Core,
 Life Sciences (Biology/Ecology/Anatomy), and Computer Applications Technology.
@@ -45,5 +44,5 @@ Christiaan Visser
 Email: christiaan@willo.co.za
 Cell: +27 64 654 6749
 
-Please contact me for verification that I am not a catfish or some other silly sort of situation.
-Please be aware that I am an extremely shy individual - but we move.
+Please contact me for verification that I am real.
+Please be aware that I am shy.
