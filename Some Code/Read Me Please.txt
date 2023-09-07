@@ -1,3 +1,3 @@
-This code is mainly from my latest 2 projects.
 Some of the code is someone elses (like the reusable state machine).
-Some of the code is incomplete and other extremely buggy.
+Some of the code is incomplete and others extremely buggy.
+This is exposure of everything i've done, including all of my mistakes.
